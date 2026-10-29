@@ -40,4 +40,5 @@ This project focuses on verifying the functionality of an AXI4-Lite Slave using 
 - Verifying read and write operations through simulation
 
 ## Author
-Anirudh Poojary
+Anirudh 
+
